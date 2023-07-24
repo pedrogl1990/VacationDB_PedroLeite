@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="VacationDB_PedroLeite">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-MTGPN7J:DESKTOP-MTGPN7J\pedro">
+          <Created>2022-12-10T01:34:11.494989+00:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-MTGPN7J</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="VacationDB_PedroLeite_FirstLoad.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MTGPN7J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MTGPN7J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>VacationDB_PedroLeite_FirstLoad.sql</FullPath>
+        </FileNode>
+        <FileNode Name="VacationDB_PedroLeite_Insert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MTGPN7J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MTGPN7J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>VacationDB_PedroLeite_Insert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="VacationDB_PedroLeite_Joins.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MTGPN7J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MTGPN7J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>VacationDB_PedroLeite_Joins.sql</FullPath>
+        </FileNode>
+        <FileNode Name="VacationDB_PedroLeite_Select.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MTGPN7J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MTGPN7J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>VacationDB_PedroLeite_Select.sql</FullPath>
+        </FileNode>
+        <FileNode Name="VacationDB_PedroLeite_Update.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MTGPN7J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MTGPN7J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>VacationDB_PedroLeite_Update.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
